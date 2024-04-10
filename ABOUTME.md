@@ -1,0 +1,6 @@
+-  Hi, I’m Michael Carr (@michaelcarr0)
+-  I'm an undergraduate senior at the University of Arizona
+-  I'm studying Management Information Systems and looking to follow with a MS in cybersecurity 
+-  I'm highly interested in defensive cybersecurity (Blue Team)
+-  I’m proficent in Python, Pandas, SQL, Linux
+-  I’m currently learning even more Linux and Python
